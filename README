@@ -1,0 +1,31 @@
+Hello all,
+
+Thank you for taking your time to review my submission.
+My implementation of this assignment is in Java (developed under JavaSE-11).
+
+To start the program from the terminal, invoke the following commands:
+
+1. javac *.java
+2. java Main
+
+Behavior:
+This program, when started, will ask for the inputs until the empty string is entered (Enter key).
+Inputs should be separated by lines, so for example, enter to the console:
+
+Carrie,06/13/1982,Steven King,762 <ENTER>
+I Robot,08/29/1945,Isaac Asimov,474 <ENTER>
+The Jungle Book,09/17/1900,Rudyard Kipling,483 <ENTER>
+Kim,02/03/1910,Rudyard Kipling,526 <ENTER>
+Mockingjay,08/09/2014,Suzanne Collins,642 <ENTER>
+<ENTER>
+
+to perform the inputs to the program.
+
+As stated in the requirements, each line contains title, date, author, and page length separated by comma.
+It is also limited to take in only 4 known authors, and the program will ignore input if the author is unknown.
+
+Thank you again for reviewing my submission.
+
+Best,
+John Choi
+choi.1655@osu.edu
